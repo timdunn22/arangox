@@ -1,0 +1,2 @@
+defmodule Arangox do
+end
